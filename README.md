@@ -1,5 +1,5 @@
 
-# webpack-typescript
+# webpack-typescript-css-html-starter
 
 Install with `npm i`
 
